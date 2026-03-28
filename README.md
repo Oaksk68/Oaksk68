@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **oaksk6820@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Hi-L2t8167Jx-StmFnJzfdzhFzA9dWXA/view?usp=sharing](https://drive.google.com/file/d/1Hi-L2t8167Jx-StmFnJzfdzhFzA9dWXA/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_QDweiw4M03stm4kUxVewUaxtNiHRXH9/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
