@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oak Soe Khant</h1>
 <h3 align="center">A frontend developer currently in Thailand</h3>
 
-- 🔭 I’m currently working on a web app called **Geohealth informatics for emergency medical services**
+- 🔭 I’m currently working at a company called **Passkit**
 
-- 🤝 I’m currently mentoring interns for help with [Inventory Management System](https://github.com/VIKHADR1/Inventory-Management-Web-App)
+- 🤝 I have mentored interns for help with [Inventory Management System](https://github.com/VIKHADR1/Inventory-Management-Web-App)
 
 - 💬 Ask me about **react, vue or frontend technologies**
 
